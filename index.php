@@ -48,7 +48,7 @@
 
 		<h2>Inspirational Quote of the Week</h2>
 		<p>
-			<em>Walk down these crowded streets with a smile on your face. 
+			<em>"Walk down these crowded streets with a smile on your face. 
 				Be thankful you get to walk so close to other humans, it’s a privilege! 
 				Don’t let your fellow humans be alien to you. And as you get older, and
 				perhaps a little less open than you are now, 	don’t assume that “exclusive”
@@ -56,7 +56,8 @@
 				folks hard selling you on the life of the few: private schools, private planes,
 				private islands, private life. 	They’re trying to convince you that hell is other people.
 				Don’t believe it. 	We are far more frequently each others’ shelter and correction,
-				the anecdote to solipsism and so many windows on this world.</em>
+				the anecdote to solipsism and so many windows on this world." </em> -Zadie Smith
+
 		</p>
 
 	</body>
