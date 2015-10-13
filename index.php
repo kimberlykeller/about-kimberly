@@ -47,6 +47,7 @@
 		</p>
 
 		<h2>Inspirational Quote of the Week</h2>
+
 		<p>
 			<em>"Walk down these crowded streets with a smile on your face. 
 				Be thankful you get to walk so close to other humans, it’s a privilege! 
