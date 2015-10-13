@@ -6,27 +6,30 @@
 		</head>
 		<body>
 			<h1>About Kimberly</h1>
-			<p>Information about Kimberly</p>
+			<p>Kimberly Ann Keller was born on December 21st, 1989 at St. Joseph's hospital in Albuquerque, NM.
+				Her favorite season is summer in New Mexico. She enjoys green chile, coffee, and lazy Sundays. She
+				has two cats, Renly and Nymeria, named after characters from the George R.R. Martin series, A Song of Ice and Fire.
+				In her spare time she picks up heavy things and puts them down or she plays Magic The Gathering.</p>
 			<table>
 				<tr>
 					<th>Hobbies/Interests</th>
 					<th>Favorite TV Shows</th>
 				</tr>
 				<tr>
-					<td>Hobby 1</td>
-					<td>TV Show 1</td>
+					<td>Gardening</td>
+					<td>Star Trek</td>
 				</tr>
 				<tr>
-					<td>Hobby 2</td>
-					<td>TV Show 2</td>
+					<td>Weightlifting/Health &amp; Wellness</td>
+					<td>Battlestar Galactica</td>
 				</tr>
 				<tr>
-					<td>Hobby 3</td>
-					<td>TV Show 3</td>
+					<td>Magic The Gathering</td>
+					<td>Doctor Who</td>
 				</tr>
 				<tr>
-					<td>Hobby 4</td>
-					<td>TV Show 4</td>
+					<td>Playing with my cats</td>
+					<td>Too many to list</td>
 				</tr>
 			</table>
 
