@@ -23,8 +23,12 @@
 					<td>Star Trek</td>
 				</tr>
 				<tr>
-					<td>Weightlifting/Health &amp; Wellness</td>
+					<td>Weightlifting</td>
 					<td>Battlestar Galactica</td>
+				</tr>
+				<tr>
+					<td>Health &amp; Wellness</td>
+					<td>30 Rock</td>
 				</tr>
 				<tr>
 					<td>Magic The Gathering</td>
