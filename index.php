@@ -9,7 +9,7 @@
 			<p>Information about Kimberly</p>
 			<table>
 				<tr>
-					<th>Hobbies</th>
+					<th>Hobbies/Interests</th>
 					<th>Favorite TV Shows</th>
 				</tr>
 				<tr>
