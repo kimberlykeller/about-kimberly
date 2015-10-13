@@ -45,7 +45,7 @@
 				<strong>Click here to follow Kimberly on Instagram</strong>
 			</a>
 		</p>
-		<!--inspirational quotes, change weekly-->
+		<!--inspirational quotes section-->
 		<h2>Inspirational Quote of the Week</h2>
 
 		<p>
