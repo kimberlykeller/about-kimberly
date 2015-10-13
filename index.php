@@ -6,13 +6,13 @@
 	</head>
 	<body>
 		<h1>About Kimberly</h1>
-
+		<!--general information about kimberly-->
 		<p>Kimberly Ann Keller was born on December 21st, 1989 at St. Joseph's hospital in Albuquerque, NM.
 			Her favorite season is summer in New Mexico. She enjoys green chile, coffee, and lazy Sundays. She
 			has two cats, Renly and Nymeria, named after characters from the George R.R. Martin series, A Song of Ice and Fire.
 			In her spare time she picks up heavy things and puts them down or she plays Magic: The Gathering.
 		</p>
-
+		<!--table that includes favorite TV shows and hobbies-->
 		<table>
 			<tr>
 				<th>Hobbies/Interests</th>
@@ -39,13 +39,13 @@
 				<td>Too many to list</td>
 			</tr>
 		</table>
-
+		<!--social media links-->
 		<p>
 			<a href="https://instagram.com/lovewedn/" target="_blank">
 				<strong>Click here to follow Kimberly on Instagram</strong>
 			</a>
 		</p>
-
+		<!--inspirational quotes, change weekly-->
 		<h2>Inspirational Quote of the Week</h2>
 
 		<p>
