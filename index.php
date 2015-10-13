@@ -24,11 +24,11 @@
 			</tr>
 			<tr>
 				<td>Weightlifting</td>
-				<td>Battlestar Galactica</td>
+				<td>Firefly</td>
 			</tr>
 			<tr>
 				<td>Health &amp; Wellness</td>
-				<td>30 Rock</td>
+				<td>Battlestar Galactica</td>
 			</tr>
 			<tr>
 				<td>Magic: The Gathering</td>
